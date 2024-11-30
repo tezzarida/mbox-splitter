@@ -17,13 +17,14 @@ A Python utility for splitting large MBOX files into smaller chunks of specified
 • Standard Python libraries (no additional dependencies)
 ## 🔧 Installation
 
-`git clone https://github.com/YOUR-USERNAME/mbox-splitter.git`
+`git clone https://github.com/tezzarida/mbox-splitter.git`
 
 `cd mbox-splitter`
 
 ## 📖 Usage
 
 `python mbox-splitter.py filename size`
+
 ## Arguments
 
 | Parameter | Description |
